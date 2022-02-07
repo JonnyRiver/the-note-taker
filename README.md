@@ -26,6 +26,9 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ![Screenshot notetaker](https://user-images.githubusercontent.com/92954684/152713192-6256203c-fee5-40d3-80e3-eae368c2c6e7.png)
 
+![Screenshot notetaker2](https://user-images.githubusercontent.com/92954684/152713800-d79ff12f-5219-44b5-a52f-f40eec83fa2f.png)
+
+
 # Video Link
 
 https://watch.screencastify.com/v/YYbaXX8mvWAHJfzls91L
