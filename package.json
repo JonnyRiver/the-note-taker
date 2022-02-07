@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "express": "^4.17.2",
+    "uniqid": "^5.4.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "the-note-taker",
+  "description": "",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonnyRiver/the-note-taker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JonnyRiver/the-note-taker/issues"
+  },
+  "homepage": "https://github.com/JonnyRiver/the-note-taker#readme"
+}
